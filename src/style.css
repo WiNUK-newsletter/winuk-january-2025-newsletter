@@ -146,22 +146,17 @@ h4 {
 .socialmedia img {
   height: 300px;
 }
-.awards {
-  background-color: #4f447b;
+.feedback {
+  background-color: var(--blog-three);
 }
-.winners ul {
-  list-style: none;
-  padding: 0;
+.wrapped {
+  background-color: #3e9f9f;
 }
-.winners1 {
-  height: 400px;
-  display: block;
-  margin: 0 auto;
-}
-.volunteer-winner {
-  width: 600px;
-  display: block;
-  margin: 5px auto;
+.arrow {
+  background-color: #fb78cc;
+  text-align: center;
+  padding: 10px;
+  padding-top: 60px;
 }
 .socials {
   background-color: #419595;
