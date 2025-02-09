@@ -155,8 +155,18 @@ h4 {
 .arrow {
   background-color: #fb78cc;
   text-align: center;
-  padding: 10px;
-  padding-top: 60px;
+  padding: 60px 10px;
+}
+.events-2025 {
+  background-color: #9d629d;
+}
+.upcoming-events {
+  background-color: #4c9dc6;
+}
+.speed {
+  height: 600px;
+  display: block;
+  margin: 0 auto;
 }
 .socials {
   background-color: #419595;
@@ -190,22 +200,22 @@ h4 {
   color: var(--third-colour);
 }
 .first {
-  background-color: #efc4dd;
+  background-color: #7cb4d2;
 }
 .second {
-  background-color: #c4cfec;
+  background-color: #f0c9e0;
 }
 .third {
-  background-color: #ceb0cd;
+  background-color: #c29cc0;
 }
-.third a {
+.fourth a {
   color: #613c61;
 }
 .one {
   background-color: #89bfc1;
 }
 .two {
-  background-color: #aacbdf;
+  background-color: #eca5ce;
 }
 a {
   display: inline-block;
