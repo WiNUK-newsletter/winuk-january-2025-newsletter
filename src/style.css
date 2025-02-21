@@ -256,6 +256,11 @@ a {
     display: block;
     margin: auto;
   }
+  .speed {
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+  }
   .content-box {
     width: 100%;
     margin: 15px AUTO;
